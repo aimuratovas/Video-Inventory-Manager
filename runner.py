@@ -1,7 +1,7 @@
 # Write your solution here!
 from classes.video import Video
 
-video = Video('== Welcome to Code Platoon Video! ==')
+video = Video('== Welcome to Video Inventory Manager! ==')
 
 print(video.name)
 
